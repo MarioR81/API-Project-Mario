@@ -43,5 +43,3 @@ Delete[/:id]: will delete a certain user by ID
 "__v": 0
 }
 ```
-
-## Deployment
